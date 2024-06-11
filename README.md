@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 
 **project I'm working on**: www.empreendedo.com/prosales
 Apaixonado completamente por **Lua**!🦠
-<br/><br/>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,kali,windows,go" /></br></br>
   </a>
